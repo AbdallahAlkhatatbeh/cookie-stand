@@ -16,3 +16,22 @@ table th, table td
     padding: 5px;
     border-color: #ccc;
 }
+
+header{
+
+    background-color: blueviolet;
+}
+#store{
+    font-size: xx-large;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    border: 10px solid slateblue;
+}
+nav{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: coral;
+    margin: auto;
+    padding: 10px;
+    border: 10px solid slateblue;
+}
