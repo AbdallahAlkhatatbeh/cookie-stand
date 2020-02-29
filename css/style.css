@@ -22,6 +22,7 @@ header{
     background-color: blueviolet;
 }
 #store{
+    font-family: 'Yellowtail' ;
     font-size: xx-large;
     text-align: center;
     margin: auto;
@@ -29,9 +30,15 @@ header{
     border: 10px solid slateblue;
 }
 nav{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Oswald' ;
     color: coral;
     margin: auto;
     padding: 10px;
     border: 10px solid slateblue;
+}
+#lastpa{
+    font-family: 'Yellowtail' ;
+    font-size: xx-large;
+    text-align: center;
+    background-color: steelblue;
 }
